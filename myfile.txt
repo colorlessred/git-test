@@ -1,5 +1,5 @@
  first line
  second line
  third line modified and merged
-4th line
+4th line modified in branch two
 5th line branch one
