@@ -1,5 +1,1 @@
- first line
- second line
- third line modified and merged
-4th line modified in branch two
-5th line branch one
+fixed in the new branch
